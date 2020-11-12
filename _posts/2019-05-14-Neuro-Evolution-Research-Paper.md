@@ -8,4 +8,4 @@ exceprt: "MPA COVID-19 2020 Web Hackathon"
 This project focused on developing a software solution (as a shippable product) that addresses one or more of the
 following problems that have arisen as a result of the global COVID-19 pandemic.
 
-# Read the full paper [here]({{site.baseurl}}\resources\Neuro_Genetic_Evolution_Research_Paper.pdf)
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=IJBsP7gY4bg" frameborder="0" allowfullscreen></iframe>
