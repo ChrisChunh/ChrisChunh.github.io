@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Chris Chunh"
   avatar           : "/images/Headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Project Portfolio."
+  bio              : "Project Portfolio. For more personal information about me, click the 'About' button in the upper left!"
   location         : "Minneapolis, MN"
   email            :
   links:
